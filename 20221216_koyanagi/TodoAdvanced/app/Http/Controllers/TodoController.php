@@ -32,4 +32,9 @@ class TodoController extends Controller
         Todo::find($request->id)->delete();
         return redirect('/');
     }
+
+    public function find()
+    {
+        return view('find', ['input' => '']);
+    }
 }
