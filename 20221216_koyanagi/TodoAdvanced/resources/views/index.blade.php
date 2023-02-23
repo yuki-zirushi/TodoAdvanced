@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-widthz, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>TodoAdvanced</title>
+  <title>TodoAdvanceds</title>
   <link rel="stylesheet" href="{{ asset('/css/common.css') }}">
   <style></style>
 </head>
